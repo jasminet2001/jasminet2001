@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jasmine Tavakkoli
-- 👀 I’m interested in web design specifically Vue.JS.
-- 🌱 I’m currently improving my skills in Vue.JS, and moving on to Typescript.
+- 👋 Hi, My name's Jasmine Tavakkoli
+- 👀 I’m a frontend developer specializing React.JS and Vue.JS.
+- :robot: I'm also interested in machine learning and LLMs.
+- 🌱 I’m constantly improving my skills in my field, and moving on to learning Typescript.
 - 📫 You can reach me by email: jasminetavakkoli@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jasminet2001&theme=outrun&mode=weekly&card_width=500)](https://git.io/streak-stats)
